@@ -1,4 +1,4 @@
-# Crie um programa que imprima no console a seguinte música:
+# Crie um programa que imprima no console a seguinte música: 🐤
 
 
 Lá em casa tinha um pintinho<br/>
@@ -44,3 +44,9 @@ E o pintinho piu<br/>
 E o pintinho piu<br/>
 E o pintinho piu<br/>
 E o pintinho piu<br/>
+
+## 💡Utilize a criatividade para usar os seguinte pilares da POO:💡
+
+> Herança
+> Polimorfismo
+> Encapsulamento
