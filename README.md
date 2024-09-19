@@ -47,6 +47,6 @@ E o pintinho piu<br/>
 
 ## 💡Utilize a criatividade para usar os seguinte pilares da POO:💡
 
-> Herança
-> Polimorfismo
-> Encapsulamento
+- Herança
+- Polimorfismo
+- Encapsulamento
